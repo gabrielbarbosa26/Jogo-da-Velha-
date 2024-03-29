@@ -24,7 +24,7 @@ Participam duas pessoas, que jogam alternadamente, preenchendo cada um dos espa�
 
 o jogador que conseguir formar primeiro uma linha com três símbolos iguais, seja ela na horizontal, vertical ou diagonal.
 
-
+ 
 # Tecnologias Utilizadas:
 
 Python 3.x

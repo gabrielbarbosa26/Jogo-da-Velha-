@@ -4,7 +4,7 @@
 
 O Jogo da Velha em Python é uma implementação simples e interativa do clássico jogo de tabuleiro para dois jogadores. Desenvolvido em Python, este projeto é uma ótima maneira de praticar conceitos de programação e lógica de jogo, além de proporcionar diversão para jogadores de todas as idades.
 
-Recursos:
+# Recursos:
 
 Jogo para Dois Jogadores: Permite que dois jogadores participem de uma partida do Jogo da Velha, alternando entre turnos para marcar suas jogadas no tabuleiro.
 
